@@ -1,7 +1,7 @@
 {
-  "name": "com.sc.packagetoolkit",
+  "name": "com.sc.packages",
   "version": "1.0.0",
-  "displayName": "SC.PackageToolkit",
+  "displayName": "SC.Packages",
   "description": "",
   "documentationUrl": "",
   "dependencies": {}

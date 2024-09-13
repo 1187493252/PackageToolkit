@@ -1,0 +1,12 @@
+{
+    "config": [
+        {
+            "key": "luban_unity_git",
+            "value": "https://github.com/focus-creative-games/luban_unity.git"
+        },
+        {
+            "key": "luban_unity_gitee",
+            "value": "https://gitee.com/focus-creative-games/luban_unity.git"
+        }
+    ]
+}
